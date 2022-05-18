@@ -1,0 +1,14 @@
+{
+    "name": "Adonis_Plugin",
+    "tree": {
+        "$className": "Folder",
+
+        "Plugin": {
+            "$path": "src"
+        },
+
+        "Packages": {
+            "$path": "Packages"
+        }
+    }
+}

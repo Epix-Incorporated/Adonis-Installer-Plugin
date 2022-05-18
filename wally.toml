@@ -1,0 +1,9 @@
+[package]
+name = "sceleratis/adonis-installer-plugin"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "server"
+
+[dependencies]
+StudioComponents = "sircfenner/studiocomponents@0.1.1"
+Roact = "roblox/roact@1.4.2"

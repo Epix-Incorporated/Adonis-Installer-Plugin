@@ -1,0 +1,23 @@
+{
+    "name": "Adonis_Plugin",
+    "tree": {
+        "$className": "DataModel",
+
+        "ServerScriptService": {
+            "$className": "ServerScriptService",
+
+            "Adonis_Plugin": {
+                "$className": "Folder",
+                
+                "Plugin": {
+                    "$path": "src"
+                },
+        
+                "Packages": {
+                    "$path": "Packages"
+                }
+            }
+        }
+
+    }
+}
