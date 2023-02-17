@@ -1,2 +1,2 @@
 # Adonis-Installer-Plugin
-Roblox Studio plugin that installs &amp; updates Adonis. 
+The Adonis installer plugin is a plugin designed by Adonis Developers to help you install, edit, and update Adonis faster, and more efficiently, in your games.
